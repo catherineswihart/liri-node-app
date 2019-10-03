@@ -6,9 +6,9 @@ exports.spotify = {
 };
 
 exports.bandskey = {
-    key: process.env.BANDSKEY,
+    key: process.env.BANDS_KEY,
 }
 
 exports.moviekey = {
-    key: process.env.MOVIEKEY,
+    key: process.env.MOVIE_KEY,
 }
