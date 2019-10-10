@@ -50,7 +50,6 @@ if (command === "movie-this") {
                 console.log(err);
             }
         })
-
 }
 
 if (command === "do-what-it-says") {
